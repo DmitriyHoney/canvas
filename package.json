@@ -1,0 +1,12 @@
+{
+  "name": "canvas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DmitriyHoney/canvas.git",
+  "author": "Dmitriy Bolshakov <eur719@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "eventemitter3": "^5.0.1"
+  }
+}
